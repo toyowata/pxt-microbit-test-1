@@ -1,0 +1,17 @@
+{
+    "name": "microbit-test-1",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
